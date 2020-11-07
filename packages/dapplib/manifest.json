@@ -1,0 +1,14 @@
+{
+    "name": "Zeron-project",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Zeron",
+        "/category/asset_value_tracking/token/symbol": "ZRN",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "1000000000"
+    }
+}
